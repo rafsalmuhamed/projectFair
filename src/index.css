@@ -1,0 +1,19 @@
+*{
+  font-family: "Poppins", sans-serif;
+
+
+}
+
+p{
+  color: rgb(156 163 175);
+  
+}
+
+.autharrow:hover{
+  color:#000000;
+  padding: 8px;
+  background: #fefefe;
+  border-radius: 20px;
+  font-size: 15px;
+  text-decoration: none;
+}
